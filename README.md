@@ -4,5 +4,5 @@
 
 ## Objective
 
-Assess AI-generated audio data by leveraging machine learning techniques
+Identify AI-generated audio data by leveraging machine learning techniques
 

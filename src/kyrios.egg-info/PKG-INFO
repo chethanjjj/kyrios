@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: kyrios
+Version: 0.1
+Summary: ml package to process and detect AI-generated audio data
+Description-Content-Type: text/markdown
+
+# kyrios
+
+<img src="images/GN-003_Kyrios.webp" alt="gundam" width="300"/>
+
+## Objective
+
+Identify AI-generated audio data by leveraging machine learning techniques

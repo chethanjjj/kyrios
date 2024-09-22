@@ -5,4 +5,3 @@
 ## Objective
 
 Identify AI-generated audio data by leveraging machine learning techniques
-

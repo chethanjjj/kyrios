@@ -1,4 +1,4 @@
-# Kyrios
+# kyrios
 
 <img src="images/GN-003_Kyrios.webp" alt="gundam" width="300"/>
 

@@ -1,6 +1,6 @@
 # Kyrios
 
-<img src="GN-003_Kyrios.webp" alt="drawing" width="300"/>
+<img src="images/GN-003_Kyrios.webp" alt="gundam" width="300"/>
 
 ## Objective
 

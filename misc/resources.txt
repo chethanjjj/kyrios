@@ -3,3 +3,4 @@
 - https://www.youtube.com/watch?v=v6tALyc4C10&t=2103s 
 - https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset
 - https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0
+- https://peps.python.org/pep-0008/#introduction

@@ -1,5 +1,5 @@
 - https://git-scm.com/docs/gitignore
-- need 'src/project_name' structure to indicate where the python package related to the toml is located for installing
+- specifically need 'src/project_name' structure to indicate where the python package related to the toml is located for installing
 - https://www.youtube.com/watch?v=v6tALyc4C10&t=2103s 
 - https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset
 - https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0

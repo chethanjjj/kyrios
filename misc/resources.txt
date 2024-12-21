@@ -6,3 +6,4 @@
 - https://peps.python.org/pep-0008/#introduction
 - https://arxiv.org/html/2407.06174v1 
 - https://www.pindrop.com/blog/audio-deepfake-detection 
+- https://www.kaggle.com/datasets/abdallamohamed312/in-the-wild-audio-deepfake 

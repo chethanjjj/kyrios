@@ -4,6 +4,6 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kyrios"
-description = "ml package to process and detect AI-generated audio data"
+description = "ml package to process healthcare data to detect at-risk patients"
 version = "0.1"
 readme = "README.md"

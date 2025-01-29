@@ -4,4 +4,4 @@
 
 ## Objective
 
-Identify AI-generated audio data by leveraging machine learning techniques
+Apply machine learning techniques to healthcare data to identify at-risk patients

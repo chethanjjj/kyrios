@@ -1,9 +1,5 @@
 - https://git-scm.com/docs/gitignore
 - specifically need 'src/project_name' structure to indicate where the python package related to the toml is located for installing
 - https://www.youtube.com/watch?v=v6tALyc4C10&t=2103s 
-- https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset
 - https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0
 - https://peps.python.org/pep-0008/#introduction
-- https://arxiv.org/html/2407.06174v1 
-- https://www.pindrop.com/blog/audio-deepfake-detection 
-- https://www.kaggle.com/datasets/abdallamohamed312/in-the-wild-audio-deepfake 

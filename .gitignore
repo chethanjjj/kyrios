@@ -1,6 +1,5 @@
-data/*
 .vscode
 __pycache__
 venv/*
-workspace/*
 .DS_Store
+scripts/cache/*

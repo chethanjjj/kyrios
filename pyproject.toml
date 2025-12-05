@@ -4,6 +4,19 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kyrios"
-description = "ml package to process healthcare data to detect at-risk patients"
+description = "ml package to process formula 1 data to predict aspects of the car and laps"
 version = "0.1"
 readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "fastf1",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -4,4 +4,4 @@
 
 ## Objective
 
-Apply machine learning techniques to healthcare data to identify at-risk patients
+Apply machine learning techniques to formula 1 data to predict aspects of a race

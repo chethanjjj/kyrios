@@ -1,8 +1,12 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: kyrios
 Version: 0.1
-Summary: ml package to process and detect AI-generated audio data
+Summary: ml package to process formula 1 data to predict aspects of the car and laps
+Requires-Python: >=3.8
 Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.26
+Requires-Dist: pandas>=2.0
+Requires-Dist: fastf1
 
 # kyrios
 
@@ -10,4 +14,4 @@ Description-Content-Type: text/markdown
 
 ## Objective
 
-Identify AI-generated audio data by leveraging machine learning techniques
+Apply machine learning techniques to formula 1 data to predict aspects of a race

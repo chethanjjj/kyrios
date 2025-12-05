@@ -4,9 +4,11 @@ Version: 0.1
 Summary: ml package to process formula 1 data to predict aspects of the car and laps
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
-Requires-Dist: numpy>=1.26
-Requires-Dist: pandas>=2.0
+Requires-Dist: numpy
+Requires-Dist: pandas
 Requires-Dist: fastf1
+Requires-Dist: polars
+Requires-Dist: torch
 
 # kyrios
 

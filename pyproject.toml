@@ -10,9 +10,11 @@ readme = "README.md"
 requires-python = ">=3.8"
 
 dependencies = [
-    "numpy>=1.26",
-    "pandas>=2.0",
+    "numpy",
+    "pandas",
     "fastf1",
+    "polars",
+    "torch",
 ]
 
 [tool.setuptools]

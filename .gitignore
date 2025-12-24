@@ -1,8 +1,7 @@
 .vscode
 __pycache__
 venv/*
-.DS_Store
+**/.DS_Store
 scripts/cache/*
 notebooks/cache/*
 .cursor
-misc/.DS_Store

@@ -4,3 +4,5 @@ venv/*
 .DS_Store
 scripts/cache/*
 notebooks/cache/*
+.cursor
+misc/.DS_Store

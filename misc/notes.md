@@ -10,7 +10,8 @@
 
 - For a given `session` (any given grand prix), we have the following information available:
 
-#### direct attributes (dataframes/series):
+#### direct attributes (dataframes/series)
+
 - `session.laps` - Lap-by-lap data (DataFrame)
   - useful features (at the lap level):
     - Time - LapStartTime: total time taken for a lap

@@ -1,10 +1,10 @@
 # notes
 
+## 2025-12-24
+
+- so the goal is to write an ml-pipeline (baseline: xgboost and research: transformer) to predict the winner of a grand-prix using 
+
 ## 2025-12-23
-
-### planning
-
-- build a simple aggregate baseline using xgboost and compare to a transformer for binary classification
 
 ### anatomy of the session object
 

@@ -1,9 +1,5 @@
 # notes
 
-## 2025-12-24
-
-- TBD
-
 ## 2025-12-23
 
 ### planning
@@ -34,9 +30,16 @@
 - `session.drivers` - List of driver numbers
   - this can be ignored, it only returns numbers
 - `session.event` - Event metadata (Series)
+  - it's probably useful to use the Country from this series as a feature
 - `session.weather_data` - Weather conditions (DataFrame)
+  - these would all be useful features, I would have to attach it to the `laps` dataframe with the key being the `Time` or `LapStartTime` column.
 - `session.track_status` - Track status changes (DataFrame)
+  - this contains all the changes (e.g. green, yellow, safety car, etc.) to the track. These can be useful. It would be good to merge with the laps dataframe using Time/LapStartTime/etc. In the data preparation stage, figure out how to do this.
 - `session.session_status` - Session lifecycle (DataFrame)
+  - This dataframe contains `Session started` value which states when the race event started and all times are relative to this. In the data-preparation stage, figure out how to use this
 - `session.race_control_messages` - Race control messages (DataFrame)
+  - contains messages from race control to all drivers/teams (i.e., one-way communication). messages are short. Unclear how useful for the initial model idea.
 - `session.name` - Session name (string)
+  - located in the `session.event` object
 - `session.date` - Session date (datetime)
+  - located in the `session.event` object

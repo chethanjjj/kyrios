@@ -1,8 +1,12 @@
 # notes
 
+## 2026-03-10
+
+- focus on an MVP, and less about capturing everything. you want to build a simple model using xgboost. just do that. today!! (please and thank you)
+
 ## 2025-12-24
 
-- so the goal is to write an ml-pipeline (baseline: xgboost and research: transformer) to predict the winner of a grand-prix using 
+- so the goal is to write an ml-pipeline (baseline: xgboost and research: transformer) to predict the winner of a grand-prix.
 
 ## 2025-12-23
 

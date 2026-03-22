@@ -13,8 +13,8 @@ dependencies = [
     "numpy",
     "pandas",
     "fastf1",
-    "polars",
-    "torch",
+    "xgboost",
+    "scikit-learn",
 ]
 
 [tool.setuptools]
